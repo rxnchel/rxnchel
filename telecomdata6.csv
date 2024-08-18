@@ -1,0 +1,11 @@
+Defect Number,Description of Defects,Date Raised,Date Resolved,Status,Customer Name
+DEF-001,"The phone screen has developed a vertical crack along the left side, approximately 2 inches in length. The crack is visible but does not seem to affect the functionality of the touchscreen at this time.",2024-03-21,Open,Emily Brown,
+DEF-002,The phone is unable to make or receive calls in certain areas. This could be due to network congestion or a problem with the phone's SIM card.,2024-08-22,2024-03-31,Closed,Sophia Kim
+DEF-003,The phone is not receiving software updates. This could leave the phone vulnerable to security risks and prevent access to new features.,2024-07-13,Open,David Lee,
+DEF-004,The phone is unable to make or receive calls in certain areas. This could be due to network congestion or a problem with the phone's SIM card.,2024-06-29,Open,Olivia Carter,
+DEF-005,"The phone's battery drains significantly faster than usual. It no longer lasts a full day on a single charge, even with minimal usage.",2024-07-13,Open,David Lee,
+DEF-006,"The phone's speaker volume is very low, even at the maximum setting. It is difficult to hear calls or listen to music clearly.",2024-06-13,Open,Jane Smith,
+DEF-007,"The phone's battery drains significantly faster than usual. It no longer lasts a full day on a single charge, even with minimal usage.",2024-08-25,Open,Olivia Carter,
+DEF-008,The phone cannot connect to Wi-Fi networks. This prevents the user from accessing the internet without using cellular data.,2024-01-14,Open,Sophia Kim,
+DEF-009,"The phone's speaker volume is very low, even at the maximum setting. It is difficult to hear calls or listen to music clearly.",2024-06-22,2024-11-13,Closed,Ethan Miller
+DEF-010,The phone's operating system is slow and unresponsive. It takes a long time for apps to launch and for basic tasks to be completed.,2024-05-29,2024-04-15,Closed,Sophia Kim
