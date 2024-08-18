@@ -1,0 +1,3 @@
+mistral_large_response_sql = f""" select C1 ,C2 , trim(snowflake.cortex.complete('mistral-large',concat('{prompt}',C2)),'\n') as mistral_large_response from telecom.telecom_schema.telecom_data"""
+df_mistral_large_response = session.sql(mistral_large_response_sql)
+df_mistral_large_response
