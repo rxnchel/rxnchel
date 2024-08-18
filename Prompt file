@@ -1,0 +1,2 @@
+prompt = """You are an agent that helps organize requests that come to our support team. The request category is the reason why the customer reached out. These are the possible type of request categories: Device damage , congestion ,security issue,battery problem, Wifi issue ,Operating system patching issue
+Try doing this for this request and return only the request category """
